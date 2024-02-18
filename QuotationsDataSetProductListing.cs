@@ -1,0 +1,7 @@
+﻿namespace RegistrationAndLogin
+{
+}
+
+namespace RegistrationAndLogin
+{
+}
